@@ -1,0 +1,17 @@
+main-- https://www.instructables.com/id/How-to-Build-a-GPS-Guided-Robot/
+https://jpralves.net/post/2018/05/01/how-to-build-a-gps-guided-robot.html
+
+https://www.youtube.com/watch?v=GkXH8ZeeIKY
+https://www.youtube.com/watch?v=GWc-FgXKLB4
+https://www.robotshop.com/community/forum/t/fundamentals-of-a-gps-guided-vehicle/12955/36
+
+
+https://circuitcellar.com/cc-blog/gps-guides-robotic-car-2/
+https://circuitcellar.com/article-materials-and-resources/june-issue-347-circuit-cellar-article-materials/
+https://drive.google.com/drive/folders/1xeU29a9ZSZfGGtYFe625S9jttg_Ra2Oy
+
+https://www.codeproject.com/Articles/1279552/Rodney-A-Long-Time-Coming-Autonomous-Robot-Part-7
+
+https://www.youtube.com/watch?v=fElOaRhkzGw
+https://github.com/robopeak/rplidar_arduino
+https://www.instructables.com/id/How-to-Use-the-RPLIDAR-360-Laser-Scanner-With-Ardu/
